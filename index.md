@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/sebasgverde/ghpagestest/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![Some text]({{site.url}}{{site.baseurl}}/images/harmony.png)
+![Some other text](https://sebasgverde.github.io/ghpagestest/images/harmony.png)
 
 cositas
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
