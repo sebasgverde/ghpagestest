@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image of Yaktocat](https://github.com/sebasgverde/ghpagestest/blob/gh-pages/images/harmony.png)
 
+<img src="https://github.com/sebasgverde/ghpagestest/blob/gh-pages/images/harmony.png" width="400" height="790">
 ### Markdown
 
 cositas
