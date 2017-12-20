@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image example](https://sebasgverde.github.io/ghpagestest/images/harmony.png)
 
+Including youtube videos
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iZX-EMMUJjE/0.jpg)](https://www.youtube.com/watch?v=iZX-EMMUJjE)
+
 cositas
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
